@@ -10,3 +10,12 @@ html {
 
 /* Write your solution here */
 
+@media (min-width: 900px) {
+  #ostrich  {
+    border:red;
+    color: green;
+   position: absolute;
+   left: 0;
+
+  }
+}
