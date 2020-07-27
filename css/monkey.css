@@ -10,3 +10,11 @@ html {
 
 /* Write your solution here */
 
+@media  (min-width: 1170px) and (max-width: 406px) {
+  #monky{
+
+    position:absolute ;
+    top: 0;
+    left: 0;
+  }
+}
